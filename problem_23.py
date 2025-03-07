@@ -50,5 +50,3 @@ if __name__ == "__main__":
     print("Number of equal row and column pairs:", result)
 
 # Output: Number of equal row and column pairs: 1
-
-# Now you can copy-paste this into VS Code and run it directly! 🚀
