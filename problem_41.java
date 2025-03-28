@@ -2,7 +2,6 @@
 // Given the root of a Binary Search Tree (BST) and an integer value,
 // return the subtree rooted with that node. If the value does not exist, return null.
 
-import java.util.*;
 
 class TreeNode {
     int val;
